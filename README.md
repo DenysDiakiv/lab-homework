@@ -14,3 +14,8 @@
 
 ```bash
 docker build -t my-python-app .
+
+2. Запуск контейнера:
+
+```bash
+docker run --rm my-python-app
